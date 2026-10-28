@@ -2,6 +2,8 @@
 
 Blender Add-on Explorer is a Streamlit web app that helps Blender learners and developers discover high-quality add-ons from GitHub. It focuses on add-ons tagged with the `blender-addon` topic and makes it easy to filter by stars, last update date, and programming language.
 
+**Live app:** https://szubi-blender-addon-explorer.streamlit.app/
+
 ## Features
 
 - Search GitHub for repositories tagged as Blender add-ons.
